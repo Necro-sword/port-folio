@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Necro-sword/port-folio.git/static/css/main.1a83d901.css",
+    "main.js": "/Necro-sword/port-folio.git/static/js/main.7eb5f4ba.js",
+    "static/media/about.png": "/Necro-sword/port-folio.git/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Necro-sword/port-folio.git/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/Necro-sword/port-folio.git/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/code-compiler.jpg": "/Necro-sword/port-folio.git/static/media/code-compiler.e9673e3002a92e1765ce.jpg",
+    "static/media/ecommerce-websites.png": "/Necro-sword/port-folio.git/static/media/ecommerce-websites.143ed1219bc66c82052f.png",
+    "static/media/food-ecommerce.jpg": "/Necro-sword/port-folio.git/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "index.html": "/Necro-sword/port-folio.git/index.html",
+    "main.1a83d901.css.map": "/Necro-sword/port-folio.git/static/css/main.1a83d901.css.map",
+    "main.7eb5f4ba.js.map": "/Necro-sword/port-folio.git/static/js/main.7eb5f4ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a83d901.css",
+    "static/js/main.7eb5f4ba.js"
+  ]
+}
